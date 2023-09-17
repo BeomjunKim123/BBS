@@ -21,3 +21,8 @@ DBMS : `MySQL`
 ## 3. ERD Diagram
 
 <img width="80%" src="https://github.com/BeomjunKim123/BBS/assets/132042330/c368690c-f351-47da-bf3b-f56a4fafbb85"/>
+
+## 4. 기능 설명
+
+
+## 5. 게시판 실행 영상
