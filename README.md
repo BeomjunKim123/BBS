@@ -33,6 +33,13 @@ DBMS : `MySQL`
 
 <img width="70%" src="https://github.com/BeomjunKim123/BBS/assets/132042330/5cb54e5b-b7ac-4bd0-90a5-9fb40fa9641c"/>
 
+<img width="70%" src="https://github.com/BeomjunKim123/BBS/assets/132042330/6cc32cd9-4da4-4d51-86cc-ccaaa3825264"/>
+
+>3. 회원가입
+\- 아이디, 비밀번호, 이름, 이메일을 입력하여 회원가입이 가능합니다.
+
+<img width="70%" src="https://github.com/BeomjunKim123/BBS/assets/132042330/03587bf4-02a2-436b-8df4-c78c858069e5"/>
+
 
 
 
