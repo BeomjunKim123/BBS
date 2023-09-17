@@ -11,6 +11,9 @@ jsp를 활용한 회원들과 자유롭게 국비 학원 평가, 교육 과정 �
 
 ## 2. 기술
 FrontEnd  : `HTML5` , `CSS`, `JavaScript`, `Bootstrap`
+
 BackEnd :  `Java`, `ApacheTomcat`
+
 DBMS : `MySQL`
+
 개발환경 : `Eclipse`
