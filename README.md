@@ -20,9 +20,21 @@ DBMS : `MySQL`
 
 ## 3. ERD Diagram
 
-<img width="80%" src="https://github.com/BeomjunKim123/BBS/assets/132042330/c368690c-f351-47da-bf3b-f56a4fafbb85"/>
+<img width="70%" src="https://github.com/BeomjunKim123/BBS/assets/132042330/c368690c-f351-47da-bf3b-f56a4fafbb85"/>
 
 ## 4. 기능 설명
+
+>1. 메인화면
+
+<img width="70%" src="https://github.com/BeomjunKim123/BBS/assets/132042330/a6a0fa47-20ac-4598-b7c6-4e82bd75e815"/>
+
+>2. 로그인
+\- 로그인을 하지 않으면 국비평가를 진행할수 없도록 구현했습니다.
+
+<img width="70%" src="https://github.com/BeomjunKim123/BBS/assets/132042330/5cb54e5b-b7ac-4bd0-90a5-9fb40fa9641c"/>
+
+
+
 
 ## 5. 업데이트 예정 기능
 
