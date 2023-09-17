@@ -40,6 +40,19 @@ DBMS : `MySQL`
 
 <img width="70%" src="https://github.com/BeomjunKim123/BBS/assets/132042330/03587bf4-02a2-436b-8df4-c78c858069e5"/>
 
+>4. 게시판 글쓰기
+\- 자유롭게 게시판을 이용해 글쓰기를 할수있도록 구현했습니다.
+
+<img width="70%" src="https://github.com/BeomjunKim123/BBS/assets/132042330/bd6d4a99-fc9b-4c50-bc59-831627aa7aff"/>
+
+>5. 게시판 수정/삭제
+\- 게시판에 글 등록 후 수정/삭제 가능하도록 기능 구현했습니다.
+
+<img width="70%" src="https://github.com/BeomjunKim123/BBS/assets/132042330/492db847-3272-4058-b4a9-b8ac6cff62a3"/>
+
+<img width="70%" src="https://github.com/BeomjunKim123/BBS/assets/132042330/30caee19-2b9d-4b91-8a21-cd403202341f"/>
+
+
 
 
 
